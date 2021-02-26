@@ -5,15 +5,14 @@ This repo contains the codes for the paper `A Hierarchical Learning Architecture
 overview
 
 ## Results
-These are the results on CIFAR-100 data set
-![alt text][logo1]
+These are the results on CIFAR-100 data set.
 
-[logo1]: https://github.com/chamain/Learning-to-group/blob/main/images/cifar100Uniformd12.png "CIFAR-100"
+<img src="https://github.com/chamain/Learning-to-group/blob/main/images/cifar100Uniformd12.png" width="500">
 
-The following is the results for ImageNet-1k (32x32) data set
-![alt text][logo2]
+The following is the results for ImageNet-1k (32x32) data set.
 
-[logo2]: https://github.com/chamain/Learning-to-group/blob/main/images/imageNetAcc5Uniform.png "ImageNet-1k (32x32)"
+<img src="https://github.com/chamain/Learning-to-group/blob/main/images/imageNetAcc5Uniform.png" width="500">
+
 ## Training
 ```
 python train.py
