@@ -8,3 +8,4 @@ Created on Thu Feb 25 15:09:56 2021
 from .groupNet import *
 from .channel import *
 from .labeller import *
+from .resNet import *
