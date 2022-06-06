@@ -1,5 +1,6 @@
 # Learning-to-group
-This repo contains the codes for the paper **'A Hierarchical Learning Architecture for End-to-End Image Compression and Classification'** presented at EUSIPCO-2021.
+This repo contains the codes for the paper **'An End-to-End Learning Architecture for Efficient Image Encoding and Deep Learning'** presented at EUSIPCO-2021.[paper](https://ieeexplore.ieee.org/iel7/9615915/9615917/09616312.pdf) - An End-to-End Learning Architecture for Efficient Image Encoding and Deep Learning
+
 
 ## Overview
 <img src="https://github.com/chamain/Learning-to-group/blob/main/images/groupMain2.png" width="500">
