@@ -1,5 +1,5 @@
 # Learning-to-group
-This repo contains the codes for the paper **'An End-to-End Learning Architecture for Efficient Image Encoding and Deep Learning'** presented at EUSIPCO-2021.[paper](https://ieeexplore.ieee.org/iel7/9615915/9615917/09616312.pdf) - An End-to-End Learning Architecture for Efficient Image Encoding and Deep Learning
+This repo contains the codes for the paper **'An End-to-End Learning Architecture for Efficient Image Encoding and Deep Learning'** presented at EUSIPCO-2021 [paper](https://ieeexplore.ieee.org/iel7/9615915/9615917/09616312.pdf) - An End-to-End Learning Architecture for Efficient Image Encoding and Deep Learning
 
 
 ## Overview
