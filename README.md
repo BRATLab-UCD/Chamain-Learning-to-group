@@ -21,6 +21,8 @@ The following is the results for ImageNet-1k (32x32) data set.
 python train.py
 ```
 ## Citation
+If you find our work useful in your research, please consider citing:
+```
 @inproceedings{chamain2021end,
   title={An End-to-End Learning Architecture for Efficient Image Encoding and Deep Learning},
   author={Chamain, Lahiru D and Qi, Siyu and Ding, Zhi},
@@ -29,3 +31,4 @@ python train.py
   year={2021},
   organization={IEEE}
 }
+```
